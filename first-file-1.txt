@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+#hello donkey 
+Aller l'om
+=======
+#j'ai faim 
+>>>>>>> bada408 (fait ton boulot chef)
