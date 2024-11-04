@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Saluit l'équipe !!! faut virer le chef du projet 
 Il faut blacklister Caliste !
-=======
-Saluit l'équipe !!! Allez l'OM
->>>>>>> ec41be9 ( ajout d'un fichier et modif du fichier existant)
+je suis ko ! 
