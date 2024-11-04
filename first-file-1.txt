@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 #hello donkey 
 Aller l'om
-=======
-#j'ai faim 
->>>>>>> bada408 (fait ton boulot chef)
 MAKE THE CODE GREAT AGAIN !!!
+No pain No gain
