@@ -1,4 +1,8 @@
 Saluit l'équipe !!! faut virer le chef du projet 
 Il faut blacklister Caliste !
 je suis en depressions !
+<<<<<<< HEAD
 c'est long !!!!!!!
+=======
+ca rend fou 
+>>>>>>> feat/member-2-2
